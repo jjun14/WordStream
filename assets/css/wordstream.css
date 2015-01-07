@@ -28,9 +28,9 @@
 
 .logo-letters{
   display: inline-block;
-  font-size: 30px;
   vertical-align: top;
   padding-top: 24px;
+  font-size: 30px;
   letter-spacing: 1px;
 }
 
@@ -50,11 +50,11 @@
 }
 
 #nav-items {
-  background-color: gray;
-  margin-left: 329px;
   width: 292px;
+  margin-left: 329px;
   padding-left: 13px;
   padding-bottom: 7px;
+  background-color: gray;
   border-radius: 2px;
 }
 
@@ -69,10 +69,10 @@
   border: none;
   height: 20px;
   width: 55px;
-  font-size: 10px;
   margin-top: 1px;
   margin-left: 17px;
   background-color: #0080C0;
+  font-size: 10px;
   color: white;
   border-radius: 3px;
 }
@@ -83,16 +83,16 @@ span.strip{
   display: inline-block;
   width: 970px;
   padding: 13px 0px 13px 10px;
+  background-color: #007FBF;
   font-size: 20px;
   color: white;
-  background-color: #007FBF;
 }
 
 /***    Side Bar     ***/
 
 #side-bar{
-  margin-top: 59px;
   display: inline-block;
+  margin-top: 59px;
 }
 
 /* Top Half */
@@ -124,14 +124,14 @@ span.strip{
 }
 
 #left-top input {
-  border-radius: 5px;
-  border: none;
   width: 200px;
   margin-bottom: 4px;
   padding: 6px 0px;
   font-size: 12px;
   font-weight: bold;
   color: white;
+  border: none;
+  border-radius: 5px;
 }
 
 #left-top #schedule{
@@ -167,8 +167,8 @@ span.strip{
 
 #content {
   display: inline-block;
-  width: 700px;
   vertical-align: top;
+  width: 700px;
   margin-left: 35px;
   margin-top: 15px;
 }
@@ -205,13 +205,13 @@ span.strip{
 }
 
 .contact-details h2{
-  color: #00A2E1;
   margin-top: -2px;
+  color: #00A2E1;
 }
 
 #get-started {
-  border: 4px solid #80B9D0;
   height: 118px;
+  border: 4px solid #80B9D0;
 }
 
 /* Get Started Pane */
@@ -224,8 +224,8 @@ span.strip{
 #get-started div {
   display: inline-block;
   vertical-align: top;
-  margin-top: 5px;
   width: 500px;
+  margin-top: 5px;
 }
 
 #get-started div * {
