@@ -2,3 +2,17 @@
   width: 970px;
   height: 750px;
 }
+
+#left-content-ad{
+  width: 200px;
+  height: 250px;
+  background: url("../images/left_content_ad.png");
+  background-size: 200px 255px;
+  border: 3px solid green;
+  margin-left: 5px;
+}
+
+.horizontal-rule {
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+}
