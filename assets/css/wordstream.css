@@ -50,19 +50,24 @@
 }
 
 #nav-items {
-  width: 292px;
-  margin-left: 329px;
+  width: 293px;
+  margin-left: 326px;
   padding-left: 13px;
   padding-bottom: 7px;
-  background-color: gray;
+  color: #A5AAB4;
+  background-color: #F8F8F8;
+  border: 1px solid #DBDBDB;
   border-radius: 2px;
 }
 
 #nav-items a {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 3px;
+  margin-top: 1px;
   color: #A5AAB4;
   text-decoration: none;
   font-size: 10px;
-  margin-right: 3px;
 }
 
 #top-bar input{
